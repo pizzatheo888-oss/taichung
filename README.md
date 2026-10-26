@@ -47,19 +47,19 @@
         <div class="card">
             <div class="card-title">🏨 住宿盲盒（三選一，連住三晚不挪窩，自帶專屬獨立車庫）</div>
             <label class="option-label">
-                <img src="https://unsplash.com" class="img-preview" alt="住宿">
+                <img src="https://imgur.com" class="img-preview" alt="住宿">
                 <input type="radio" name="hotel" value="鳥人創意旅店（西屯區）" class="option-input" required>
                 <span class="option-name">鳥人創意旅店（西屯區）</span>
                 <span class="option-desc">主打地窖、沙漠、原始森林風格，設計感強烈神祕，拍照視覺衝擊力高。</span>
             </label>
             <label class="option-label">
-                <img src="https://unsplash.com" class="img-preview" alt="住宿">
+                <img src="https://imgur.com" class="img-preview" alt="住宿">
                 <input type="radio" name="hotel" value="台中芭蕾城堡酒店（南屯區）" class="option-input" required>
                 <span class="option-name">台中芭蕾城堡酒店（南屯區）</span>
                 <span class="option-desc">主打一房一庭園的歐洲城堡渡假感，房型寬敞自帶雙人大型氣泡按摩浴缸。</span>
             </label>
             <label class="option-label">
-                <img src="https://unsplash.com" class="img-preview" alt="住宿">
+                <img src="https://imgur.com" class="img-preview" alt="住宿">
                 <input type="radio" name="hotel" value="沐蘭精品旅館（西屯區）" class="option-input" required>
                 <span class="option-name">沐蘭精品旅館（西屯區）</span>
                 <span class="option-desc">森林系頂級 Villa 風格，房間內融入落羽松、大型水景與大片植栽，奢華且極度療癒。</span>
@@ -75,13 +75,13 @@
             </div>
             <div style="font-size: 13px; font-weight: bold; margin-bottom: 8px;">請選擇晚餐大餐：</div>
             <label class="option-label">
-                <img src="https://unsplash.com" class="img-preview" alt="火鍋">
+                <img src="https://imgur.com" class="img-preview" alt="火鍋">
                 <input type="radio" name="d1_dinner" value="這一鍋 皇室秘藏鍋物（七期朝富店）" class="option-input" required onclick="toggleOther('d1_dinner', false)">
                 <span class="option-name">這一鍋 皇室秘藏鍋物（七期朝富店）</span>
                 <span class="option-desc">浮誇東方宮廷風火鍋。可以用墨魚汁在豆腐紙上寫字下鍋煮，神仙牛肉上桌自帶乾冰瀑布。</span>
             </label>
             <label class="option-label">
-                <img src="https://unsplash.com" class="img-preview" alt="台菜">
+                <img src="https://imgur.com" class="img-preview" alt="台菜">
                 <input type="radio" name="d1_dinner" value="永心鳳茶（勤美誠品店）" class="option-input" required onclick="toggleOther('d1_dinner', false)">
                 <span class="option-name">永心鳳茶（勤美誠品店）</span>
                 <span class="option-desc">時髦老洋房復古茶沙龍。用紅酒杯喝台灣頂級冷泡茶，吃精緻時髦的現代台菜套餐。</span>
